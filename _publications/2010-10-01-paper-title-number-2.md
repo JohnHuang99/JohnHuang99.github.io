@@ -3,7 +3,7 @@ title: "CycleGAN-Based Cloud Removal from a Feature Enhancement Perspective by T
 collection: publications
 category: manuscripts
 date: 2023-10-20
-venue: 'Conference 1'
+venue: 'IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10282840'
 citation: 'Y. Huang, X. Ma, X. Zhang and M. -O. Pun, "CycleGAN-Based Cloud Removal from a Feature Enhancement Perspective by Transformer," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 3772-3775.'
 ---
