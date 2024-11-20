@@ -1,7 +1,7 @@
 ---
 title: "CycleGAN-Based Cloud Removal from a Feature Enhancement Perspective by Transformer"
 collection: publications
-category: manuscripts
+category: conferences
 date: 2023-10-20
 venue: 'IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10282840'
