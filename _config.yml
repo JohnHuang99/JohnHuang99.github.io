@@ -9,7 +9,7 @@
 title                    : "Yiming Huang"
 description              : "LLM, NLP, CV"
 repository               : "JohnHuang99/scholar.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # Site Author
 author:
