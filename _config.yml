@@ -8,28 +8,18 @@
 # Site Settings
 title                    : "Yiming Huang"
 description              : "LLM, NLP, CV"
-repository               : "JohnHuang99/JohnHuang99.github.io"
+repository               : "JohnHuang99/scholar.github.io"
 google_scholar_stats_use_cdn : false
-
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "Yiming Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  bio              : "Harbin Institute of Technology, Shenzhen"
+  location         : "Shenzhen, Guangdong"
+  googlescholar    : "https://scholar.google.com/citations?user=Fcg9sDMAAAAJ&hl=zh-CN"
+  email            : "johnhuang990801@163.com", "222012014@link.cuhk.edu.cn", "24b951042@stu.hit.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yiming-Huang-37?ev=hdr_xprf"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +27,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "JohnHuang99"
   google_plus      :
   keybase          :
   instagram        :
