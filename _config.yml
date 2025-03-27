@@ -18,7 +18,10 @@ author:
   bio              : "Harbin Institute of Technology, Shenzhen"
   location         : "Shenzhen, Guangdong"
   googlescholar    : "https://scholar.google.com/citations?user=Fcg9sDMAAAAJ&hl=zh-CN"
-  email            : "johnhuang990801@163.com", "222012014@link.cuhk.edu.cn", "24b951042@stu.hit.edu.cn"
+  email:
+    - "johnhuang990801@163.com"
+    - "222012014@link.cuhk.edu.cn"
+    - "24b951042@stu.hit.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yiming-Huang-37?ev=hdr_xprf"
   uri              : 
   bitbucket        :
@@ -35,7 +38,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-5003-2427"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
