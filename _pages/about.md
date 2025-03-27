@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently persuing Ph.D. in Harbin Institute of Technology (Shenzhen), and my supervisor is Cuiyun Gao.
+I am currently persuing Ph.D. in Harbin Institute of Technology (Shenzhen), supervised by Cuiyun Gao.
 
-I have received my bachelor degree in Guangdong University of Technology, and I have received my master degree in the Chinese University of Hongkong (Shenzhen).
+I have received my bachelor degree in Guangdong University of Technology, and I have received my master degree in the Chinese University of Hongkong (Shenzhen), supervised by Man-On Pun.
 
 My research interest includes:
 
@@ -26,7 +26,7 @@ My research interest includes:
 
 - Computer Vision
 
-Currently, I have published two English articles<a href='https://scholar.google.com/citations?user=Fcg9sDMAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citation"></a>.
+Currently, I have published two English articles. <a href='https://scholar.google.com/citations?user=Fcg9sDMAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citation"></a>
 
   
 <span class='anchor' id='-xl'></span>
