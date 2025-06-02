@@ -42,21 +42,22 @@ My research interest includes:
 
 ### 英文
 ---
+<div class='paper-box-text' markdown="1">
 -	Ma X, Huang Y, Zhang X, et al. Cloud-egan: rethinking cyclegan from a feature enhancement perspective for cloud removal by combining cnn and transformer[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023, 16: 4999-5012. (SCI:Q2; IF:4.7)  
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10143392)
 
 </div>
-</div>
 
+<div class='paper-box-text' markdown="1">
 - Huang Y, Ma X, Zhang X, et al. CycleGAN-Based Cloud Removal from a Feature Enhancement Perspective by Transformer[C]//IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 3772-3775. (Top Conference in Remote Sensing)
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10282840)
 
 </div>
-</div>
 
+<div class='paper-box-text' markdown="1">
 - Huang, Y., Guo, J., Mao, W., Gao, C., Han, P., Liu, C., & Ling, Q. (2025). Exploring the Landscape of Text-to-SQL with Large Language Models: Progresses, Challenges and Opportunities. (Submitted to ACM Computing Surveys (CSUR). Currently under review)
 [[网页]](https://arxiv.org/abs/2505.23838)
-
+</div>
 
 ### 专利
 ---
