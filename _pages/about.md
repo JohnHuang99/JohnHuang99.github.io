@@ -55,7 +55,7 @@ My research interest includes:
 </div>
 
 <div class='paper-box-text' markdown="1">
-- Huang, Y., Guo, J., Mao, W., Gao, C., Han, P., Liu, C., & Ling, Q. (2025). Exploring the Landscape of Text-to-SQL with Large Language Models: Progresses, Challenges and Opportunities. (Submitted to ACM Computing Surveys (CSUR). Currently under review)
+- Huang Y, Guo J, Mao W, et al. Exploring the Landscape of Text-to-SQL with Large Language Models: Progresses, Challenges and Opportunities[J]. arXiv preprint arXiv:2505.23838, 2025. (Submitted to ACM Computing Surveys (CSUR). Currently under review)
 [[网页]](https://arxiv.org/abs/2505.23838)
 </div>
 
